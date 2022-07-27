@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<p align="center"><a href="www.aaron.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-=======
+AVEL
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="500"></a></p>
 >>>>>>> 0c3315bcbbf6f269e13785161b826a59a6d5181b
 
